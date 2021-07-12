@@ -4,12 +4,12 @@
 
 ## RS_RURAL
 ### RS_RURAL_2013_2018_df_consumo_clima.csv
-> Saída CSV do DataFrame mensais:
->> Clima no RS 
->> Consumo no RS para Consumidor RURAL
+Saída CSV do DataFrame mensais:
+* Clima no RS 
+* Consumo no RS para Consumidor RURAL
 
 ## RS_2013_2018
 ### RS_2013_2018_df_consumo_clima.csv
-> Saída CSV do DataFrame mensais:
->> Clima no RS 
->> Consumo no RS agrupado por Tipo de Consumidor
+Saída CSV do DataFrame mensais:
+* Clima no RS 
+* Consumo no RS agrupado por Tipo de Consumidor
